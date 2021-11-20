@@ -10,6 +10,12 @@ public class Final {
     // napisz metodę, która wylicza wartość energii potencjalnej (masę i wysokość przyjmij jako argumenty funkcji)
 
     public static void main(String[] args) {
+        System.out.println(countEnergy(10, 15));
+        System.out.println(countEnergy(100, 10000));
+    }
 
+    public static double countEnergy(double mass, double height) {
+        final double GRAVITATIONAL_CONSTANT = 9.81;
+        return mass * height * GRAVITATIONAL_CONSTANT;
     }
 }

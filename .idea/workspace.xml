@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d799ecbe-d9f7-4725-8df8-3ca1babdb958" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testuj-Web4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracaDomowa/Cwiczenie3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Char1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Char1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Char2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Char2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Char3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Char3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracaDomowa/String3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracaDomowa/String4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="216KvZwPM1aULMnqVzjlF3Zibh4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Cwiczenie4">
+    <configuration name="Cwiczenie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracaDomowa.Cwiczenie3" />
+      <module name="Testuj-Web4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracaDomowa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cwiczenie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracaDomowa.Cwiczenie4" />
+      <module name="Testuj-Web4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracaDomowa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2" />
+      <module name="Testuj-Web4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracaDomowa.String3" />
+      <module name="Testuj-Web4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracaDomowa.String4" />
+      <module name="Testuj-Web4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cwiczenie4" />
+        <item itemvalue="Application.Cwiczenie3" />
+        <item itemvalue="Application.String4" />
+        <item itemvalue="Application.String3" />
+        <item itemvalue="Application.String2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d799ecbe-d9f7-4725-8df8-3ca1babdb958" name="Default Changelist" comment="" />
+      <created>1637256330357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637256330357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1986" y="113" key="FileChooserDialogImpl" timestamp="1637256412567">
+      <screen x="1366" y="-109" width="1680" height="1010" />
+    </state>
+    <state x="1986" y="113" key="FileChooserDialogImpl/0.0.1366.728/1366.-109.1680.1010@1366.-109.1680.1010" timestamp="1637256412567" />
+    <state width="1323" height="272" key="GridCell.Tab.0.bottom" timestamp="1637439483117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-109.1680.1010@1366.-109.1680.1010" timestamp="1637262588248" />
+    <state width="1323" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1637439483117" />
+    <state width="1323" height="272" key="GridCell.Tab.0.center" timestamp="1637439483117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1366.728/1366.-109.1680.1010@1366.-109.1680.1010" timestamp="1637262588247" />
+    <state width="1323" height="272" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1637439483117" />
+    <state width="1323" height="272" key="GridCell.Tab.0.left" timestamp="1637439483117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1366.728/1366.-109.1680.1010@1366.-109.1680.1010" timestamp="1637262588247" />
+    <state width="1323" height="272" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1637439483117" />
+    <state width="1323" height="272" key="GridCell.Tab.0.right" timestamp="1637439483117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1366.728/1366.-109.1680.1010@1366.-109.1680.1010" timestamp="1637262588248" />
+    <state width="1323" height="272" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1637439483117" />
+    <state x="1869" y="108" width="672" height="678" key="search.everywhere.popup" timestamp="1637262976783">
+      <screen x="1366" y="-109" width="1680" height="1010" />
+    </state>
+    <state x="1869" y="108" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-109.1680.1010@1366.-109.1680.1010" timestamp="1637262976783" />
+  </component>
+</project>

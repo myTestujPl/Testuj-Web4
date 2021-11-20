@@ -1,6 +1,8 @@
+package PracaDomowa;
+
 public class String3 {
     // oprócz operatora '+', do łączenia wielu zmiennych typu String można wykorzystać metodę:
-    // String.join(delimiter, String1, String2, String3...);
+    // String.join(delimiter, String1, String2, PracaDomowa.String3...);
     // do której jako pierwszy argument wpisujemy znak którym będą oddzielone wszystkie Stringi
     // wpisane jako kolejne argumenty funkcji
 
@@ -16,5 +18,7 @@ public class String3 {
         String numbers2 = "222";
         String numbers3 = "333";
 
+        System.out.println(String.join(" ",name, secondName, surname));
+        System.out.println(String.join("-", numbers1, numbers2, numbers3));
     }
 }

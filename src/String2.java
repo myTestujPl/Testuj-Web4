@@ -6,6 +6,7 @@ public class String2 {
         String secondName = "Józef";
         String surname = "Nowak";
 
-
+        String newString = name+secondName+surname;
+        System.out.println(newString);
     }
 }
